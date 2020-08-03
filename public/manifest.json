@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Realoque",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -8,18 +8,18 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "./../src/assets/logo.jpeg",
+      "type": "image/jpeg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "./../src/assets/logo.jpeg",
+      "type": "image/jpeg",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "blue",
+  "background_color": "pink"
 }
